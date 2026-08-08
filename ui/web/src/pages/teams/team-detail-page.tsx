@@ -22,7 +22,7 @@ export function TeamDetailPage({ teamId, onBack }: TeamDetailPageProps) {
   const { t } = useTranslation("teams");
   const {
     getTeam, getTeamTasks, getTeamScopes, addMember, removeMember, deleteTeam,
-    getTaskDetail, getTaskLight, deleteTask, deleteTasksBulk, addTaskComment, updateTeam,
+    getTaskDetail, getTaskLight, deleteTask, deleteTasksBulk, addTaskComment, assignTask, updateTeam,
   } = useTeams();
 
   // Wrap addTaskComment to match (teamId, taskId, content) signature expected by UI components.
@@ -122,6 +122,7 @@ export function TeamDetailPage({ teamId, onBack }: TeamDetailPageProps) {
         deleteTask={deleteTask}
         deleteTasksBulk={deleteTasksBulk}
         addTaskComment={handleAddComment}
+        assignTask={assignTask}
         onWorkspace={() => setWorkspaceOpen(true)}
       />
 

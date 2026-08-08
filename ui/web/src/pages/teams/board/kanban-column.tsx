@@ -1,9 +1,11 @@
-import { memo } from "react";
-import { AnimatePresence, LayoutGroup } from "framer-motion";
+import { memo, useMemo } from "react";
+import { useDroppable } from "@dnd-kit/core";
+import { SortableContext, verticalListSortingStrategy } from "@dnd-kit/sortable";
 import { Badge } from "@/components/ui/badge";
 import { useTranslation } from "react-i18next";
 import { STATUS_COLORS } from "./board-utils";
-import { KanbanCard } from "./kanban-card";
+import { columnDropId } from "./board-dnd-utils";
+import { SortableKanbanCard } from "./sortable-kanban-card";
 import type { TeamTaskData } from "@/types/team";
 
 interface KanbanColumnProps {
@@ -20,9 +22,11 @@ interface KanbanColumnProps {
 
 export const KanbanColumn = memo(function KanbanColumn({ columnId, title, tasks, isTeamV2, emojiLookup, memberLookup, taskLookup, onTaskClick, onDeleteTask }: KanbanColumnProps) {
   const { t } = useTranslation("teams");
+  const { setNodeRef } = useDroppable({ id: columnDropId(columnId) });
+  const taskIds = useMemo(() => tasks.map((task) => task.id), [tasks]);
 
   return (
-    <div className="flex max-h-full w-[280px] shrink-0 flex-col rounded-xl border bg-card shadow-sm">
+    <div ref={setNodeRef} className="flex max-h-full w-[280px] shrink-0 flex-col rounded-xl border bg-card shadow-sm">
       <div className="flex items-center gap-2 px-3 py-2.5">
         <span className={`h-2.5 w-2.5 rounded-full ${STATUS_COLORS[columnId] ?? "bg-gray-400"}`} />
         <span className="text-sm font-medium capitalize">{title.replace(/_/g, " ")}</span>
@@ -30,26 +34,24 @@ export const KanbanColumn = memo(function KanbanColumn({ columnId, title, tasks,
       </div>
 
       <div className="flex flex-1 flex-col gap-2 overflow-y-auto overscroll-contain px-2 pb-2">
-        {tasks.length === 0 ? (
-          <div className="py-6 text-center text-xs text-muted-foreground">{t("board.emptyColumn")}</div>
-        ) : (
-          <LayoutGroup>
-            <AnimatePresence mode="popLayout">
-              {tasks.map((task) => (
-                <KanbanCard
-                  key={task.id}
-                  task={task}
-                  isTeamV2={isTeamV2}
-                  emojiLookup={emojiLookup}
-                  memberLookup={memberLookup}
-                  taskLookup={taskLookup}
-                  onClick={() => onTaskClick(task)}
-                  onDelete={onDeleteTask}
-                />
-              ))}
-            </AnimatePresence>
-          </LayoutGroup>
-        )}
+        <SortableContext items={taskIds} strategy={verticalListSortingStrategy}>
+          {tasks.length === 0 ? (
+            <div className="py-6 text-center text-xs text-muted-foreground">{t("board.emptyColumn")}</div>
+          ) : (
+            tasks.map((task) => (
+              <SortableKanbanCard
+                key={task.id}
+                task={task}
+                isTeamV2={isTeamV2}
+                emojiLookup={emojiLookup}
+                memberLookup={memberLookup}
+                taskLookup={taskLookup}
+                onClick={() => onTaskClick(task)}
+                onDelete={onDeleteTask}
+              />
+            ))
+          )}
+        </SortableContext>
       </div>
     </div>
   );

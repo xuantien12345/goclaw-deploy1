@@ -22,6 +22,24 @@ export const STATUS_COLORS: Record<string, string> = {
   cancelled: "bg-gray-400",
 };
 
+/** Column key for tasks without an owner (owner grouping) */
+export const UNASSIGNED_KEY = "unassigned";
+
+/** Resolve the kanban column key of a task for a grouping */
+export function taskGroupKey(
+  task: TeamTaskData,
+  key: "status" | "owner" | "type",
+): string {
+  switch (key) {
+    case "status":
+      return task.status;
+    case "owner":
+      return task.owner_agent_key || UNASSIGNED_KEY;
+    case "type":
+      return task.task_type || "general";
+  }
+}
+
 /** Group tasks by a field for kanban columns */
 export function groupTasksBy(
   tasks: TeamTaskData[],
@@ -29,18 +47,7 @@ export function groupTasksBy(
 ): Map<string, TeamTaskData[]> {
   const map = new Map<string, TeamTaskData[]>();
   for (const task of tasks) {
-    let groupKey: string;
-    switch (key) {
-      case "status":
-        groupKey = task.status;
-        break;
-      case "owner":
-        groupKey = task.owner_agent_key || "unassigned";
-        break;
-      case "type":
-        groupKey = task.task_type || "general";
-        break;
-    }
+    const groupKey = taskGroupKey(task, key);
     const arr = map.get(groupKey) ?? [];
     arr.push(task);
     map.set(groupKey, arr);
