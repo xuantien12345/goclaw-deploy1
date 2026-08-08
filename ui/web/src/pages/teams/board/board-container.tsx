@@ -30,12 +30,13 @@ interface BoardContainerProps {
   deleteTask?: (teamId: string, taskId: string) => Promise<void>;
   deleteTasksBulk?: (teamId: string, taskIds: string[]) => Promise<number>;
   addTaskComment?: (teamId: string, taskId: string, content: string) => Promise<void>;
+  assignTask?: (teamId: string, taskId: string, agentId: string) => Promise<void>;
   onWorkspace?: () => void;
 }
 
 export const BoardContainer = memo(function BoardContainer({
   teamId, members, scopes, isTeamV2,
-  getTeamTasks, getTaskDetail, getTaskLight, deleteTask, deleteTasksBulk, addTaskComment, onWorkspace,
+  getTeamTasks, getTaskDetail, getTaskLight, deleteTask, deleteTasksBulk, addTaskComment, assignTask, onWorkspace,
 }: BoardContainerProps) {
   const { t } = useTranslation("teams");
   const viewMode = useBoardStore((s) => s.viewMode);
@@ -85,6 +86,12 @@ export const BoardContainer = memo(function BoardContainer({
     setDeleteTargetId(taskId);
   }, []);
 
+  const assignTaskRef = useRef(assignTask);
+  assignTaskRef.current = assignTask;
+  const handleReassign = useCallback(async (taskId: string, agentKey: string) => {
+    await assignTaskRef.current?.(teamId, taskId, agentKey);
+  }, [teamId]);
+
   const confirmDeleteTask = useCallback(async () => {
     if (!deleteTaskRef.current || !deleteTargetId) return;
     setSingleDeleting(true);
@@ -125,6 +132,7 @@ export const BoardContainer = memo(function BoardContainer({
             taskLookup={taskLookup}
             onTaskClick={handleTaskClick}
             onDeleteTask={deleteTask ? handleDeleteTask : undefined}
+            onReassign={assignTask ? handleReassign : undefined}
           />
         ) : (
           <TaskList

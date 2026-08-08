@@ -1,5 +1,4 @@
 import { memo } from "react";
-import { motion } from "framer-motion";
 import { Trash2, Ban, MessageSquare, Paperclip } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { useTranslation } from "react-i18next";
@@ -42,11 +41,7 @@ export const KanbanCard = memo(function KanbanCard({ task, isTeamV2, emojiLookup
   const hasBlockers = task.blocked_by && task.blocked_by.length > 0;
 
   return (
-    <motion.div
-      layoutId={task.id}
-      layout
-      initial={false}
-      transition={{ type: "spring", stiffness: 350, damping: 30 }}
+    <div
       className={
         "group relative cursor-pointer rounded-lg border bg-card p-3 shadow-sm transition-colors hover:bg-accent/50" +
         (locked ? " border-l-2 border-l-green-500" : blocked ? " border-l-2 border-l-amber-500" : "")
@@ -126,6 +121,6 @@ export const KanbanCard = memo(function KanbanCard({ task, isTeamV2, emojiLookup
           <span className="text-2xs text-muted-foreground">{task.progress_percent}%</span>
         </div>
       )}
-    </motion.div>
+    </div>
   );
 });
