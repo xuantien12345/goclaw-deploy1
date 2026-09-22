@@ -1,58 +1,67 @@
 # Tour Thâm Quyến – Hàng Châu – Bắc Kinh | 25/10 – 03/11/2026
 
-> Bản v3 (21/09/2026). 3 nhóm: Hà Nội 2, Sài Gòn 4, Quảng Châu 2 = 8 người, 4 phòng twin. Gặp nhau chiều tối 25/10 tại khách sạn Futian (Thâm Quyến), bay đêm 03/11 từ Bắc Kinh Đại Hưng; nhóm Quảng Châu bay về cùng nhóm Sài Gòn. 10 ngày 9 đêm.
+> Bản v4 (22/09/2026 — giá thật + vé bay đêm). 3 nhóm: Hà Nội 2, Sài Gòn 4, Quảng Châu 2 = 8 người, 4 phòng twin. **Hội quân sáng 26/10** tại khách sạn Futian (Thâm Quyến) — nhóm Quảng Châu tới tối 25/10 giữ 1 phòng, các nhóm bay đêm đáp rạng sáng 26/10; bay đêm 03/11 (Option C: 04/11) từ Bắc Kinh Đại Hưng; nhóm Quảng Châu bay về cùng nhóm Sài Gòn. Khung 25/10 → 03/11 (Option A/B, 9 đêm) hoặc → 04/11 (Option C, 10 đêm).
 >
 > **File chủ để chỉnh sửa:** `docs/travel/tour-china-2026-10-budget.xlsx`. Sửa ô chữ xanh ở sheet **ThamSo** (ngày đi, tỷ giá, số người, giá vé, giá phòng, giá vé tham quan) → lịch trình, deadline và 3 bảng chi phí tự tính lại. Mở được bằng Excel, Google Sheets, LibreOffice.
 >
-> **Về giá:** máy chạy Claude bị chặn truy cập Trip.com, Agoda, Booking, Skyscanner, Kayak, Google Flights, Traveloka, Klook, 12306 (network policy của môi trường), nên giá vé máy bay và khách sạn là **giá tham khảo từ snippet công cụ tìm kiếm ngày 21/09**. Khi sếp tra được giá thật, dán vào ThamSo là mọi bảng chạy theo. Quy đổi: 1 CNY = 3.950 VND (VCB bán 19/09: 3.947), 1 USD = 26.210 VND (VCB bán 20/09).
+> **Về giá (bản 22/09):** giá vé bay + khách sạn nay là **GIÁ THẬT tra Trip.com / Google Flights ngày 22/09/2026 qua trình duyệt** (vượt được tường chống bot), không còn là snippet ước lượng. Quy đổi: 1 CNY = 3.950 VND (VCB bán 19/09: 3.947), 1 USD = 26.210 VND (VCB bán 20/09). Giá vé bay đổi từng ngày → số dưới là mức bookable tại 22/09, khi book cần tra lại.
 >
-> **Giờ bay:** lịch mùa hè 2026 (đến 24/10). Lịch mùa đông IATA áp dụng đúng từ 25/10 = ngày bay → check lại từng chuyến trước khi thanh toán.
+> **Thay đổi lớn so với v3:** (1) **Hội quân dời sang sáng 26/10** (nhóm Quảng Châu tới tối 25/10 giữ 1 phòng trước) → chọn được **vé bay ĐÊM rẻ hơn** cho ngày đi. (2) **Nhóm HN về:** đêm 03→04/11 **KHÔNG có VietJet bay thẳng** PKX→HAN (Trip.com + Google Flights đều xác nhận) → tạm dùng **XiamenAir bay thẳng ban ngày $152** (rời Bắc Kinh ~14:00 ngày cuối), verify app Vietjet lúc book. (3) **Số đêm** có 3 phương án (xem mục 4) — file Excel chính = **Option A (TQ2/HC3/BK4)**, kèm 2 file `-optB` / `-optC`.
+>
+> **Giờ bay:** lịch mùa đông IATA áp dụng từ 25/10 = ngày bay → check lại từng chuyến trước khi thanh toán.
 
 ## 1. Tổng quan
 
-| Chặng | Ngày | Thời lượng | Di chuyển | Ngủ |
-|---|---|---|---|---|
-| Thâm Quyến | tối CN 25/10 → sáng T4 28/10 | 2 ngày full (26, 27) | HN + SGN bay thẳng; Quảng Châu tàu cao tốc 29 phút | 3 đêm Futian |
-| Hàng Châu | T4 28/10 → trưa T6 30/10 | 2,5 ngày | Bay SZX → HGH ~2h (tàu 6–7h nên không dùng) | 2 đêm Hubin, bờ đông Tây Hồ |
-| Bắc Kinh | chiều T6 30/10 → tối T3 03/11 | 4 ngày full | Tàu cao tốc Hangzhou East → Beijing South ~4,5–5h | 4 đêm Vương Phủ Tỉnh / Đông Đan |
-| Về | đêm T3 03/11 | | Cả 3 nhóm ra Đại Hưng (PKX) lúc 21:30 | |
+*Bảng dưới theo **Option A (khuyến nghị): Thâm Quyến 2 / Hàng Châu 3 / Bắc Kinh 4 đêm**. So sánh 3 option ở mục 4.*
 
-Múi giờ: Trung Quốc = Việt Nam + 1h. Không trùng lễ Trung Quốc.
+| Chặng | Ngày (Option A) | Thời lượng | Di chuyển | Ngủ |
+|---|---|---|---|---|
+| Thâm Quyến | rạng sáng 26/10 → 27/10 sáng | ~1,5 ngày (26) | Bay đêm (SGN Vietravel / HN Shenzhen Air); Quảng Châu tàu cao tốc 29 phút | 2 đêm Futian |
+| Hàng Châu | 27/10 → 30/10 sáng | ~2,5 ngày | Bay SZX → HGH ~2h (tàu 6–7h nên không dùng) | 3 đêm Hubin, bờ đông Tây Hồ |
+| Bắc Kinh | 30/10 → tối 03/11 | ~3,5 ngày | Tàu cao tốc Hangzhou East → Beijing South ~4,5–5h | 4 đêm Vương Phủ Tỉnh / Đông Đan |
+| Về | đêm 03/11 (Option C: 04/11) | | SGN+QC: VJ3949 01:05; HN: XiamenAir ban ngày (xem 2.3) | |
+
+Rooms giữ từ 25/10 để nhóm bay đêm nhận phòng sớm (~04:00–05:00 ngày 26/10); nhóm Quảng Châu ở đêm 25/10. Múi giờ: Trung Quốc = Việt Nam + 1h. Không trùng lễ Trung Quốc.
 
 ## 2. Chuyến bay và tàu
 
-### 2.1 Chủ Nhật 25/10 – hội quân tại khách sạn Futian
+### 2.1 Ngày đi 25/10 (bay đêm) – hội quân sáng 26/10 tại khách sạn Futian
 
-| Nhóm | Chuyến | Đi | Đến | Hành lý | Giá tham khảo / người (ô nhập ThamSo) |
+Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hội quân dời sang sáng 26/10:
+
+| Nhóm | Chuyến (đã chốt – rẻ) | Đi | Đến | Giá THẬT / người | Ghi chú |
 |---|---|---|---|---|---|
-| Hà Nội (2) | Shenzhen Airlines **ZH104** HAN → SZX | 15:05 | 17:50 | Eco quốc tế 1 kiện 23 kg | 142 USD ≈ 3,72 triệu (Expedia: từ 144, trung bình 142 USD) |
-| Sài Gòn (4) | China Southern **CZ8466** SGN → SZX | 14:30 | 18:20 | Eco 23 kg, tránh hạng Economy Light | 3,3 triệu (đại lý CZ VN khứ hồi 5,3–8,5 triệu; Skyscanner từ 113 USD) |
-| Sài Gòn (so giá) | Vietravel **VU8602** SGN → SZX | chưa xác định | | check | mở bán từ 15/08/2026, khung tối và sáng sớm |
-| Quảng Châu (2) | Tàu G Guangzhou South → **Futian** | ~561 chuyến/ngày | +29 phút | | hạng 2: 74,5 CNY ≈ 295k |
+| Hà Nội (2) | Shenzhen Airlines HAN → SZX (bay đêm) | 02:10 | 05:00 | **$150 ≈ 3,93 triệu** | Ban ngày: China Southern 16:10→19:00 **$195** |
+| Sài Gòn (4) | **Vietravel VU** SGN → SZX (bay đêm) | 00:10 | 04:00 | **$73 ≈ 1,91 triệu** | Hãng mới (mở tuyến 8/2026); ban ngày CZ8466 14:30→18:15 **$209** |
+| Quảng Châu (2) | Tàu G Guangzhou South → **Futian** | 25/10 chiều | +29 phút | 74,5 CNY ≈ 295k | Tới tối 25/10, **giữ 1 phòng** |
 
-- HN và SGN đáp cách nhau 30 phút, cùng nhà ga T3, gặp ở sảnh đến rồi đi Metro Line 11 về Futian (~30 phút, ~8 CNY) hoặc 2 xe Didi (~100 CNY/xe).
-- Nhóm Quảng Châu xuống ga Futian ngay CBD, hẹn 20:00 tại sảnh khách sạn, ăn tối chung.
-- Dự phòng nhóm HN: CZ8470 16:45 → 19:55.
+- **Vé đi 25/10 (CN) là ngày giá vọt**; ngày thường quanh $115–122. Bay đêm rẻ hơn ~$136/người (SGN) và ~$45 (HN) so ban ngày, đổi lại đáp 04:00–05:00 rạng sáng 26/10.
+- Nhóm bay đêm đáp SZX T3 rạng sáng 26/10 → Metro L11 hoặc Didi về Futian, nhận phòng sớm/gửi đồ, nghỉ. **Sáng 26/10 cả đoàn hội quân**, gửi đồ đi chơi, nhận phòng chính thức sau.
+- Nếu muốn khỏe (đáp chiều tối 25/10 để hội quân ngay tối 25): đổi sang bản ban ngày (HN $195 / SGN CZ8466 $209) — sửa ô ThamSo B23/B24.
 
 ### 2.2 Nội địa
 
 | Chặng | Ngày | Chọn | Giá tham khảo / người | Ghi chú |
 |---|---|---|---|---|
-| SZX → HGH | sáng T4 28/10 | Bay ~2h: CZ8711 08:00 → 09:55 hoặc Shenzhen Airlines 09:00 → 10:50 | 550 CNY ≈ 2,17 triệu (Skyscanner từ 69 USD, Trip.com từ 74 USD), eco kèm 20 kg | |
-| Hangzhou East → Beijing South | trưa T6 30/10 | Tàu G hạng 2, chuyến ~4,5h | 650 CNY ≈ 2,57 triệu (travelchinaguide: 605–749) | Mở bán **16/10**. 12306 bằng hộ chiếu, hoặc Trip.com pre-order |
+| SZX → HGH | sáng 27/10 (Option A) | Bay thẳng ~2h: China Southern 07:00 → 09:00 hoặc Shenzhen Air 07:20 → 09:35 | **$90 ≈ 597 CNY ≈ 2,36 triệu** (Trip.com 22/09, kèm 20 kg) | |
+| Hangzhou East → Beijing South | trưa 30/10 (Option A) | Tàu G hạng 2, chuyến ~4,5h | 650 CNY ≈ 2,57 triệu (giá nhà nước cố định: 605–662,5) | Mở bán **15 ngày trước**. 12306 bằng hộ chiếu, hoặc Trip.com pre-order |
 
 ### 2.3 Đêm Thứ Ba 03/11 – cả 3 nhóm cùng ra Đại Hưng (PKX)
 
-| Nhóm | Chuyến | Đi | Đến | Hành lý | Giá tham khảo / người |
+| Nhóm | Chuyến | Đi | Đến | Giá THẬT / người | Ghi chú |
 |---|---|---|---|---|---|
-| Sài Gòn (4) + Quảng Châu (2) | Vietjet **VJ3949** PKX → SGN | 01:05 (rạng sáng 04/11) | 05:00 | Vietjet 2026 tặng 20 kg tuyến quốc tế thẳng hạng Eco → xác nhận khi book; file đang tính thêm 450k mua 20 kg, về 0 nếu vé đã kèm | 103 USD ≈ 2,70 triệu (Trip.com / Aviability 8/2026) |
-| Hà Nội (2) | Vietjet **VJ7713** PKX → HAN | 01:20 (rạng sáng 04/11) | 03:55 | như trên | 103 USD ≈ 2,70 triệu; hai nguồn lệch giờ (01:20 hàng ngày / 02:15 T3-T5-T7) → theo web Vietjet |
+| Sài Gòn (4) + Quảng Châu (2) | Vietjet **VJ3949** PKX → SGN | 01:05 (rạng sáng 04/11) | 05:00 | **$148 ≈ 3,88 triệu** (Trip.com 22/09, "exclusive fare") | Đặt thẳng Vietjet.com có thể ~$110; hành lý 20 kg xác nhận khi book (ThamSo dòng 28) |
+| Hà Nội (2) | **XiamenAir** PKX → HAN (ban ngày) | 15:10 | 17:55 | **$152 ≈ 3,98 triệu** (Trip.com/Google 22/09) | ⚠️ Đêm 03→04/11 **KHÔNG có VietJet bay thẳng**; verify app Vietjet lúc book |
 
-- Trả phòng trưa 03/11, gửi hành lý ở khách sạn, chơi tới tối, 21:30 cùng ra sân bay (Didi ~1h, hoặc Daxing Airport Express từ Caoqiao 35 CNY).
+- ⚠️ **Nhóm HN đổi cách về:** đêm 03→04/11 không có chuyến bay thẳng đêm về HAN (cả Trip.com lẫn Google Flights xác nhận, VJ7713 01:20 không chạy đêm này). Tạm dùng **XiamenAir bay thẳng ban ngày 15:10→17:55** → nhóm HN **rời Bắc Kinh ~13:00 ngày 03/11**, mất buổi chiều/tối cuối. Khi book nên thử lại app Vietjet (đôi khi còn vé không lên OTA).
+- SGN + QC: trả phòng trưa 03/11, gửi hành lý, chơi tới tối, 21:30 ra sân bay (Didi ~1h, hoặc Daxing Airport Express từ Caoqiao 35 CNY), 01:05 bay VJ3949.
+- **Option C** (về 04/11): mọi mốc trên lùi 1 ngày; XiamenAir + VJ3949 đều có chuyến tương ứng 04/11.
 
 ## 3. Lịch trình chi tiết
 
-**[trend]** = điểm đang hot với dân du lịch trẻ 2025–2026, không phải tuyến tour đại trà. Giá vé CNY/người, niêm yết 2026. Sheet LichTrinh trong file Excel là bản đầy đủ, ngày tự dời theo ngày bắt đầu.
+**[trend]** = điểm đang hot với dân du lịch trẻ 2025–2026, không phải tuyến tour đại trà. Giá vé CNY/người, niêm yết 2026.
+
+> ⚠️ **Lưu ý:** Lịch giờ-by-giờ dưới đây (và sheet LichTrinh) là **bản HOẠT ĐỘNG gốc v3** — dựng cho cấu trúc Thâm Quyến 3 / Hàng Châu 2 / Bắc Kinh 4 đêm, đáp ban ngày 25/10. **Với vé bay đêm + hội quân 26/10 + phân bổ đêm mới (Option A/B/C, mục 4), thứ tự ngày sẽ được sắp lại sau khi Sếp chốt 1 option.** Danh sách điểm/hoạt động vẫn giữ nguyên (chỉ đổi số ngày mỗi thành phố): Option A cho Hàng Châu thêm 1 ngày (đồi trà + kênh cổ thong thả hơn), Thâm Quyến gọn còn ~1,5 ngày (giữ Nantou + Huaqiangbei + Ping An, bỏ bớt Dafen/MixC).
 
 ### Ngày 1 – Chủ Nhật 25/10 – Bay, hội quân Thâm Quyến
 - 12:00 / 12:30 nhóm SGN có mặt Tân Sơn Nhất T2, nhóm HN có mặt Nội Bài T2.
@@ -113,84 +122,32 @@ Múi giờ: Trung Quốc = Việt Nam + 1h. Không trùng lễ Trung Quốc.
 - 14:00–15:30 **Cảnh Sơn** (2 CNY) – toàn cảnh Tử Cấm Thành. 16:00–18:00 **Nam La Cổ Hạng** (miễn phí). 18:00 ăn tối gần khách sạn.
 - 21:00 lấy hành lý; 21:30 cả 3 nhóm ra Đại Hưng. 01:05 VJ3949 về SGN (nhóm SGN + Quảng Châu), 01:20 VJ7713 về HAN.
 
-## 4. Chi phí dự kiến (tính từ file Excel, tỷ giá 3.950 / 26.210)
+## 4. Chi phí – GIÁ THẬT 22/09 (tỷ giá 3.950 / 26.210)
 
-Chưa gồm mua sắm. Dự phòng 10%. Khách sạn: 3 đêm Thâm Quyến 350 CNY, 2 đêm Hàng Châu 380 CNY, 4 đêm Bắc Kinh 400 CNY / phòng twin (mức chuỗi 3–4* Ji Hotel, Atour, Holiday Inn Express, Orange; tham khảo: Ji Hotel Hangzhou West Lake từ ~46–63 USD, Ji Hotel Beijing Wangfujing ~58 USD, Atour Shenzhen Huaqiangbei từ ~72 USD). Mục tiêu 1–1,5 triệu/đêm đạt ở Thâm Quyến và Hàng Châu nếu book ngay; Bắc Kinh trung tâm đầu tháng 11 thường 1,4–1,8 triệu, muốn ≤1,5 triệu thì lùi ra Dongsi / Chaoyangmen.
+Số liệu = **giá thật Trip.com/Google 22/09** + **vé bay đêm** (HN Shenzhen Air $150 / SGN Vietravel $73 / HN về Xiamen $152 / SGN+QC về VJ3949 $148 / SZX→HGH $90). Khách sạn giữ Thâm Quyến 350, Hàng Châu 380, Bắc Kinh 400 CNY/phòng twin — đã đối chiếu giá thật 22/09: Futian 3–4* thực 280–630 (chọn ~350 dễ), Hubin/Tây Hồ thực 165–290 (→ 380 dư), Vương Phủ Tỉnh thực 298–574 (→ 400 đạt, ở ngay trung tâm vẫn ≤1,5 triệu). Chưa gồm bảo hiểm & mua sắm. Dự phòng 10%.
 
-### 4.1 Nhóm Hà Nội (2 người, 1 phòng, cần visa)
+### 4.1 So sánh 3 Option (per-person ĐÃ gồm dự phòng 10%, VND)
 
-| Khoản | / người (VND) |
-|---|---|
-| Visa TQ loại L (60 USD + 685k CVASC) | 2.257.600 |
-| Vé đi ZH104 (142 USD) | 3.721.820 |
-| Vé về VJ7713 (103 USD) | 2.699.630 |
-| Hành lý Vietjet 20 kg (nếu vé chưa kèm) | 450.000 |
-| Bay SZX → HGH (550 CNY) | 2.172.500 |
-| Tàu Hangzhou East → Beijing South (650 CNY) | 2.567.500 |
-| Khách sạn Thâm Quyến 3 đêm (chia 2) | 2.073.750 |
-| Khách sạn Hàng Châu 2 đêm (chia 2) | 1.501.000 |
-| Khách sạn Bắc Kinh 4 đêm (chia 2) | 3.160.000 |
-| Vé tham quan (1.085 CNY) | 4.285.750 |
-| Xe 14 chỗ Trường Thành (1.200 CNY chia 8) | 592.500 |
-| Đi lại nội thành (60 CNY × 10 ngày) | 2.370.000 |
-| Transfer sân bay, ga (150 CNY) | 592.500 |
-| Ăn uống (180 CNY × 10 ngày) | 7.110.000 |
-| eSIM (17 USD) | 445.570 |
-| **Tổng / người** | **36.000.120** |
-| Dự phòng 10% | 3.600.012 |
-| **Tổng có dự phòng / người** | **39.600.132** |
-| **Cả nhóm 2 người** | **79.200.264** |
+| Option | Phân bổ đêm | Về | HN /người | SGN /người | QC /người | **TỔNG đoàn (dự phòng)** | File Excel |
+|---|---|---|---|---|---|---|---|
+| **A** ⭐ | TQ 2 / HC 3 / BK 4 (9 đêm) | 03/11 | 41,51tr | 39,18tr | 34,91tr | **309,56tr** | `tour-china-2026-10-budget.xlsx` |
+| **B** (= v3) | TQ 3 / HC 2 / BK 4 (9 đêm) | 03/11 | 41,45tr | 39,11tr | 34,85tr | **309,04tr** | `…-budget-optB.xlsx` |
+| **C** | TQ 3 / HC 3 / BK 4 (10 đêm) | 04/11 | 43,32tr | 40,98tr | 36,72tr | **323,99tr** | `…-budget-optC.xlsx` |
 
-### 4.2 Nhóm Sài Gòn (4 người, 2 phòng, cần visa)
+- **A "ăn đứt" B**: cùng khung 9 đêm, chênh chỉ ~0,5tr nhưng A cho **Hàng Châu 3 đêm** (rút Thâm Quyến còn 2 đêm ~1,5 ngày).
+- **C**: giữ đủ cả 3 thành phố + Hàng Châu 3, nhưng **+~15tr** và dời ngày về **04/11** (+1 đêm khách sạn, vé VJ/Xiamen về lùi 1 ngày).
+- So v3 gốc (302,4tr): giá thật đội **+~7tr**, chủ yếu do 2 chặng VỀ tăng (VJ3949 $103→$148; HN về $103→$152 Xiamen), bù lại vé ĐI rẻ đi (SGN Vietravel $73).
 
-Giống nhóm Hà Nội trừ vé đi CZ8466 3.300.000 và vé về VJ3949.
+### 4.2 Option A (khuyến nghị) – tổng mỗi nhóm (verify từ Excel)
 
-| Khoản | / người (VND) |
-|---|---|
-| Visa TQ loại L | 2.257.600 |
-| Vé đi CZ8466 | 3.300.000 |
-| Vé về VJ3949 (103 USD) | 2.699.630 |
-| Hành lý Vietjet 20 kg (nếu vé chưa kèm) | 450.000 |
-| Bay SZX → HGH + tàu HGH → BJ | 4.740.000 |
-| Khách sạn 9 đêm (chia 2) | 6.734.750 |
-| Vé tham quan + xe Trường Thành | 4.878.250 |
-| Đi lại nội thành + transfer | 2.962.500 |
-| Ăn uống | 7.110.000 |
-| eSIM | 445.570 |
-| **Tổng / người** | **35.578.300** |
-| Dự phòng 10% | 3.557.830 |
-| **Tổng có dự phòng / người** | **39.136.130** |
-| **Cả nhóm 4 người** | **156.544.520** |
+| Nhóm | / người (chưa dự phòng) | / người (có dự phòng) | Cả nhóm (có dự phòng) |
+|---|---|---|---|
+| Hà Nội (2, cần visa) | 37,74tr | 41,51tr | 83,03tr |
+| Sài Gòn (4, cần visa) | 35,62tr | 39,18tr | 156,71tr |
+| Quảng Châu (2, chưa tính visa) | 31,74tr | 34,91tr | 69,83tr |
+| **Cả đoàn (8)** | 279,60tr | | **309,56tr** |
 
-### 4.3 Nhóm Quảng Châu (2 người, 1 phòng, không tính visa; bay về cùng nhóm Sài Gòn)
-
-| Khoản | / người (VND) |
-|---|---|
-| Visa | 0 (đặt lại 1 ở ThamSo nếu cần) |
-| Tàu Guangzhou South → Futian (74,5 CNY) | 294.275 |
-| Vé về VJ3949 (103 USD) | 2.699.630 |
-| Hành lý Vietjet 20 kg (nếu vé chưa kèm) | 450.000 |
-| Bay SZX → HGH + tàu HGH → BJ | 4.740.000 |
-| Khách sạn 9 đêm (chia 2) | 6.734.750 |
-| Vé tham quan + xe Trường Thành | 4.878.250 |
-| Đi lại nội thành + transfer | 2.962.500 |
-| Ăn uống | 7.110.000 |
-| eSIM | 445.570 |
-| **Tổng / người** | **30.314.975** |
-| Dự phòng 10% | 3.031.498 |
-| **Tổng có dự phòng / người** | **33.346.473** |
-| **Cả nhóm 2 người** | **66.692.945** |
-
-### 4.4 Cả đoàn 8 người
-
-| | Chưa dự phòng | Có dự phòng 10% |
-|---|---|---|
-| Hà Nội (2) | 72.000.240 | 79.200.264 |
-| Sài Gòn (4) | 142.313.200 | 156.544.520 |
-| Quảng Châu (2) | 60.629.950 | 66.692.945 |
-| **Tổng** | **274.943.390** | **302.437.729** |
-
-Chưa gồm bảo hiểm du lịch (400k–1,2 triệu/người, ô Bảo hiểm trong ThamSo đang = 0) và mua sắm.
+Chi tiết từng dòng (visa, khách sạn, tham quan, ăn ở, đi lại…) nằm trong sheet **ChiPhi_HN / SGN / QC**. Đổi ô chữ xanh ở ThamSo → toàn bộ chạy lại. Chưa gồm bảo hiểm (400k–1,2 triệu/người, ô Bảo hiểm ThamSo = 0), mua sắm; **ô "Cần visa" nhóm Quảng Châu đang = 0** (điểm chốt #5).
 
 ## 5. Thời tiết và trang phục
 
@@ -229,11 +186,13 @@ Vali 20–23 kg/người là đủ. Sạc dự phòng, adapter đa năng (220V, 
 
 ## 8. Điểm chưa chốt
 
-1. Nhóm Sài Gòn: CZ8466 hay VU8602 (Vietravel) → so giá khi book, lấy chuyến rẻ hơn miễn đáp trong 17:00–19:30.
-2. Vietjet chiều về: xác nhận có tặng 20 kg hay phải mua (ô "Hành lý ký gửi Vietjet" trong ThamSo).
-3. Khách sạn Bắc Kinh: chấp nhận 1,4–1,8 triệu ở Vương Phủ Tỉnh, hay lùi ra Dongsi / Chaoyangmen để về ≤1,5 triệu.
-4. Hương Sơn (01/11) đi hay bỏ: chốt khi có bản tin lá đỏ ~25/10; bật cột "Tính" trong ThamSo nếu đi.
-5. Nhóm Quảng Châu có cần visa không (ô "Cần visa" trong ThamSo đang = 0).
+0. **CHỐT OPTION cấu trúc** (A/B/C ở mục 4) → sau đó sắp lại lịch giờ-by-giờ mục 3 + sheet LichTrinh cho khớp. Mặc định file chính = **A**.
+1. ~~SGN: CZ8466 hay VU8602~~ → **đã rõ:** VU8602 là chuyến ĐÊM (22:10→02:00), Trip.com không bán ngày 25/10; đã chốt **Vietravel bay đêm $73 (26/10)** cho rẻ. Muốn khỏe thì đổi CZ8466 ban ngày $209.
+2. **Vietjet chiều về tặng 20 kg?** — chưa xác nhận; ô "Hành lý Vietjet 20 kg" (ThamSo dòng 28) đang tính thêm, về 0 nếu vé đã kèm.
+3. ~~Khách sạn Bắc Kinh~~ → **đã rõ:** ở ngay **Vương Phủ Tỉnh vẫn ≤1,5 triệu** được (Zhong'an ~298 CNY, Xingyi ~230); giữ mức 400 CNY.
+4. **Hương Sơn** (lá đỏ) đi hay bỏ: chốt khi có bản tin lá đỏ ~25/10; bật cột "Tính" ThamSo dòng 44 nếu đi.
+5. **Nhóm Quảng Châu có cần visa TQ không** (ô "Cần visa" ThamSo dòng 11 đang = 0). Nếu cần → +~2,26 triệu/người.
+6. **Nhóm HN chặng về:** verify app Vietjet có chuyến đêm PKX→HAN đêm 03/11 không; nếu không, dùng Xiamen ban ngày (đã tính $152) và chấp nhận rời Bắc Kinh sớm ngày cuối.
 
 ## 9. Nguồn tham khảo
 
