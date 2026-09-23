@@ -33,7 +33,7 @@ Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hộ
 |---|---|---|---|---|---|
 | Hà Nội (2) | Shenzhen Airlines HAN → SZX (bay đêm) | 02:10 | 05:00 | **$150 ≈ 3,93 triệu** | Ban ngày: China Southern 16:10→19:00 **$195** |
 | Sài Gòn (4) | **Vietravel VU** SGN → SZX (bay đêm) | 00:10 | 04:00 | **$73 ≈ 1,91 triệu** | Hãng mới (mở tuyến 8/2026); ban ngày CZ8466 14:30→18:15 **$209** |
-| Quảng Châu (2) | Tàu G Guangzhou South → **Futian** | 25/10 chiều | +29 phút | 74,5 CNY ≈ 295k | Tới tối 25/10, **giữ 1 phòng** |
+| Quảng Châu (2) | **Spring Airlines 9C7348** SGN → CAN (Quảng Châu) **đêm 23/10** | 18:55 | 23:15 | **5.294.700đ/người** | Đi **Canton Fair** trước (xem 2.4); tối 25/10 tàu G Guangzhou South → Futian, ngủ 1 đêm Thâm Quyến |
 
 - **Vé đi 25/10 (CN) là ngày giá vọt**; ngày thường quanh $115–122. Bay đêm rẻ hơn ~$136/người (SGN) và ~$45 (HN) so ban ngày, đổi lại đáp 04:00–05:00 rạng sáng 26/10.
 - Nhóm bay đêm đáp SZX T3 rạng sáng 26/10 → Metro L11 hoặc Didi về Futian, nhận phòng sớm/gửi đồ, nghỉ. **Sáng 26/10 cả đoàn hội quân**, gửi đồ đi chơi, nhận phòng chính thức sau.
@@ -57,6 +57,17 @@ Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hộ
 - SGN + QC: trả phòng trưa 03/11, gửi hành lý, chơi tới tối, 21:30 ra sân bay (Didi ~1h, hoặc Daxing Airport Express từ Caoqiao 35 CNY), 01:05 bay VJ3949.
 - **Option C** (về 04/11): mọi mốc trên lùi 1 ngày; XiamenAir + VJ3949 đều có chuyến tương ứng 04/11.
 
+### 2.4 Nhóm Quảng Châu – đi Canton Fair trước (23–26/10)
+
+| Ngày | Việc | Chi phí |
+|---|---|---|
+| **23/10 tối** | Bay **Spring Airlines 9C7348** SGN T2 18:55 → Quảng Châu Bạch Vân (CAN) T3 23:15 | **5.294.700đ/người** |
+| 24–25/10 | **Canton Fair** (Hội chợ Canton). Ngủ **JI Hotel (Guangzhou Sanyuanli, gần ĐH Trung Y Dược)** 2 đêm | **3.607.802đ** (phòng, 2 đêm) |
+| **25/10 tối** | Tàu cao tốc **Guangzhou South → Futian** (29 phút) sang Thâm Quyến, ngủ **1 đêm** khách sạn Futian | 74,5 CNY ≈ 295k/người |
+| **26/10 sáng** | Nhập hội với đoàn (HN + SGN vừa đáp), từ đây đi chung + về chung team Sài Gòn | — |
+
+> Canton Fair là phần **đi hội chợ (việc kinh doanh)** ghép đầu chuyến — vé bay + 2 đêm Guangzhou đang để riêng, **chưa cộng vào ngân sách tour** ở mục 4 (chờ Sếp chốt có gộp không).
+
 ## 3. Lịch trình chi tiết
 
 **[trend]** = điểm đang hot với dân du lịch trẻ 2025–2026, không phải tuyến tour đại trà. Giá vé CNY/người, niêm yết 2026.
@@ -64,7 +75,7 @@ Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hộ
 *Lịch dưới đây theo **Option A (khuyến nghị): bay đêm đáp sáng 26/10, hội quân 26/10 · Thâm Quyến 1 ngày · Hàng Châu 3 ngày · Bắc Kinh 4 ngày · về đêm 03/11**. Giá vé tham quan CNY/người, niêm yết 2026. (Option B giữ Thâm Quyến 2 ngày / Hàng Châu 2; Option C thêm 1 đêm, về 04/11 — điều chỉnh số ngày mỗi thành phố tương ứng.)*
 
 ### Ngày 1 – Chủ Nhật 25/10 – Di chuyển (bay đêm)
-- **Quảng Châu:** chiều/tối đi tàu G Guangzhou South → Futian (29 phút), nhận **1 phòng** ở khách sạn Futian, nghỉ ngơi.
+- **Quảng Châu (đã ở Canton Fair từ 23/10):** tối 25/10 đi tàu G Guangzhou South → Futian (29 phút), nhận **1 phòng** ở khách sạn Futian, nghỉ ngơi (xem lịch riêng 2.4).
 - **Sài Gòn:** ~22:00 có mặt Tân Sơn Nhất T2 → Vietravel VU 00:10 (rạng sáng 26/10). **Hà Nội:** ~00:00 có mặt Nội Bài T2 → Shenzhen Air 02:10 (rạng sáng 26/10).
 - Chuẩn bị trước ở VN: eSIM, Alipay / WeChat Pay link thẻ, tải app Didi / Amap / 12306.
 
