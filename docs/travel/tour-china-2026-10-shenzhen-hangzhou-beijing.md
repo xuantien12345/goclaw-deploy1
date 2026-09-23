@@ -61,40 +61,42 @@ Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hộ
 
 **[trend]** = điểm đang hot với dân du lịch trẻ 2025–2026, không phải tuyến tour đại trà. Giá vé CNY/người, niêm yết 2026.
 
-> ⚠️ **Lưu ý:** Lịch giờ-by-giờ dưới đây (và sheet LichTrinh) là **bản HOẠT ĐỘNG gốc v3** — dựng cho cấu trúc Thâm Quyến 3 / Hàng Châu 2 / Bắc Kinh 4 đêm, đáp ban ngày 25/10. **Với vé bay đêm + hội quân 26/10 + phân bổ đêm mới (Option A/B/C, mục 4), thứ tự ngày sẽ được sắp lại sau khi Sếp chốt 1 option.** Danh sách điểm/hoạt động vẫn giữ nguyên (chỉ đổi số ngày mỗi thành phố): Option A cho Hàng Châu thêm 1 ngày (đồi trà + kênh cổ thong thả hơn), Thâm Quyến gọn còn ~1,5 ngày (giữ Nantou + Huaqiangbei + Ping An, bỏ bớt Dafen/MixC).
+*Lịch dưới đây theo **Option A (khuyến nghị): bay đêm đáp sáng 26/10, hội quân 26/10 · Thâm Quyến 1 ngày · Hàng Châu 3 ngày · Bắc Kinh 4 ngày · về đêm 03/11**. Giá vé tham quan CNY/người, niêm yết 2026. (Option B giữ Thâm Quyến 2 ngày / Hàng Châu 2; Option C thêm 1 đêm, về 04/11 — điều chỉnh số ngày mỗi thành phố tương ứng.)*
 
-### Ngày 1 – Chủ Nhật 25/10 – Bay, hội quân Thâm Quyến
-- 12:00 / 12:30 nhóm SGN có mặt Tân Sơn Nhất T2, nhóm HN có mặt Nội Bài T2.
-- 17:50 / 18:20 đáp SZX T3, nhập cảnh (lăn vân tay, tờ khai), gặp nhau sảnh đến. 19:30 về khách sạn Futian. Nhóm Quảng Châu tới ga Futian ~19:30–20:00.
-- 20:00 cả đoàn ăn tối Coco Park. Kích hoạt eSIM, set Alipay / WeChat Pay.
+### Ngày 1 – Chủ Nhật 25/10 – Di chuyển (bay đêm)
+- **Quảng Châu:** chiều/tối đi tàu G Guangzhou South → Futian (29 phút), nhận **1 phòng** ở khách sạn Futian, nghỉ ngơi.
+- **Sài Gòn:** ~22:00 có mặt Tân Sơn Nhất T2 → Vietravel VU 00:10 (rạng sáng 26/10). **Hà Nội:** ~00:00 có mặt Nội Bài T2 → Shenzhen Air 02:10 (rạng sáng 26/10).
+- Chuẩn bị trước ở VN: eSIM, Alipay / WeChat Pay link thẻ, tải app Didi / Amap / 12306.
 
-### Ngày 2 – Thứ Hai 26/10 – Thâm Quyến: cổ trấn hip, chợ điện tử, tầng 116
-- 09:30–12:30 **Nantou Ancient Town [trend]** – cổ thành 1.700 năm cải tạo thành khu cafe, gallery, bar thủ công (Metro L12; miễn phí). Ăn trưa trong khu.
-- 14:00–16:30 **Huaqiangbei** – chợ điện tử lớn nhất Trung Quốc (SEG Plaza, Huaqiang Electronic World, Mingtong; miễn phí).
-- 17:00–19:00 **Ping An Finance Center – Free Sky** tầng 116, hoàng hôn ~17:50 (online 180 CNY, quầy 200; book bằng hộ chiếu).
-- 19:30 ăn tối Futian.
+### Ngày 2 – Thứ Hai 26/10 – Hội quân Thâm Quyến: cổ trấn hip, chợ điện tử, tầng 116
+- 04:00 / 05:00 nhóm SGN / HN đáp SZX T3, nhập cảnh (lăn vân tay, tờ khai) → Metro L11 (~8 CNY) hoặc Didi về Futian, nhận phòng sớm / gửi đồ, **nghỉ vài tiếng**.
+- 10:00 cả đoàn **hội quân**, ăn brunch, kích hoạt eSIM / ví.
+- 11:00–13:00 **Nantou Ancient Town [trend]** – cổ thành 1.700 năm cải tạo thành khu cafe, gallery, bar thủ công (Metro L12; miễn phí). Ăn trưa trong khu.
+- 14:30–16:30 **Huaqiangbei** – chợ điện tử lớn nhất Trung Quốc (SEG Plaza, Huaqiang Electronic World, Mingtong; miễn phí).
+- 17:00–19:00 **Ping An Finance Center – Free Sky** tầng 116, hoàng hôn ~17:50 (online 180 CNY; book bằng hộ chiếu).
+- 19:30 ăn tối **Coco Park** (Futian) – khu ăn uống, bar sôi động.
 
-### Ngày 3 – Thứ Ba 27/10 – Thâm Quyến: làng tranh, Nam Sơn, hoàng hôn vịnh
-- 09:00–12:00 **Dafen Oil Painting Village** – làng tranh sơn dầu, đặt vẽ / mua tranh giá xưởng (Metro L3 ga Dafen; miễn phí).
-- 14:00–16:00 **Shenzhen MixC World [trend]** – flagship Huawei, HAUS NOWHERE, cafe; hoặc **OCT-LOFT** nếu thích nghệ thuật (miễn phí).
-- 16:30–18:30 **Shenzhen Talent Park / Shenzhen Bay Park [trend]** – hoàng hôn, skyline Hong Kong (miễn phí).
-- 19:00 ăn tối Sea World (Shekou). Soạn hành lý bay sớm.
-
-### Ngày 4 – Thứ Tư 28/10 – Bay Hàng Châu, Tây Hồ, show trên mặt hồ
-- 05:45 rời khách sạn; 08:00 → 09:55 bay SZX → HGH. 10:30–11:30 về khách sạn Hubin (Metro L1/L7 ~1h), gửi hành lý.
-- 12:00 ăn trưa cá giấm Tây Hồ, thịt Đông Pha.
+### Ngày 3 – Thứ Ba 27/10 – Bay Hàng Châu, Tây Hồ, show trên mặt hồ
+- 05:45 rời khách sạn; 07:00 → 09:00 bay SZX → HGH (China Southern). 10:00–11:00 về khách sạn Hubin (Metro L1/L7 ~1h), gửi hành lý.
+- 12:00 ăn trưa **cá giấm Tây Hồ (西湖醋鱼) + thịt kho Đông Pha** – quán ven Hồ (Grandma's / Green Tea Restaurant).
 - 13:30–17:30 **Tây Hồ**: thuyền ra đảo Tiểu Doanh (55 CNY, chuyến cuối 16:00) → đê Tô → **tháp Lôi Phong** hoàng hôn (40 CNY).
 - 19:40–20:35 **Impression West Lake [trend]** – show Trương Nghệ Mưu trên mặt hồ (360 / 430 / 960 CNY; đặt trước 1–2 tuần).
 
-### Ngày 5 – Thứ Năm 29/10 – Hàng Châu: chùa, đồi trà, chợ đêm
+### Ngày 4 – Thứ Tư 28/10 – Hàng Châu: chùa Linh Ẩn, đồi trà, chợ đêm
 - 08:00–10:30 **Chùa Linh Ẩn + Phi Lai Phong** (combo 75 CNY), đi sớm tránh đông.
-- 11:00–14:00 **Làng trà Long Tỉnh + Mãn Giác Lũng [trend]** – cafe giữa đồi trà, mùa hoa quế; ăn trưa nhà dân trồng trà (~80–120 CNY).
-- 14:30–16:00 **Bảo tàng Trà quốc gia** (miễn phí). 16:30–18:00 **Cửu Khê** đi bộ rừng trà (miễn phí).
-- 18:30–21:00 **Chợ đêm Wulin [trend]** (17:00–23:00); hoặc phố cổ Hà Phường.
+- 11:00–14:00 **Làng trà Long Tỉnh (龙井) + Mãn Giác Lũng [trend]** – cafe giữa đồi trà, mùa hoa quế; **ăn trưa nhà dân trồng trà + thưởng trà Long Tỉnh** (~80–120 CNY).
+- 14:30–16:00 **Bảo tàng Trà quốc gia** (miễn phí). 16:30–18:00 **Cửu Khê (Jiuxi)** đi bộ suối rừng trà (miễn phí).
+- 18:30–21:00 **Chợ đêm Wulin [trend]** (17:00–23:00) – ăn vặt, mua sắm; hoặc phố cổ Hà Phường.
 
-### Ngày 6 – Thứ Sáu 30/10 – Kênh đào cổ, tàu cao tốc đi Bắc Kinh
-- 09:00–11:00 **Xiaohe Street + cầu Gongchen (Đại Vận Hà) [trend]** – phố cổ ven kênh, cafe, shop thủ công (miễn phí). Trả phòng trước.
-- 12:00–13:30 tàu G Hangzhou East → Beijing South hạng 2, ~4,5h. ~17:30–18:30 về khách sạn Vương Phủ Tỉnh / Đông Đan.
+### Ngày 5 – Thứ Năm 29/10 – Hàng Châu: kênh đào cổ, phố Hà Phường (ngày thư thả)
+- 09:30–12:00 **Xiaohe Street + cầu Gongchen (Đại Vận Hà) [trend]** – phố cổ ven kênh, cafe, shop thủ công, bảo tàng nghề (miễn phí).
+- 12:30 ăn trưa quán ven kênh (mì cá, bánh bao Hàng Châu).
+- 14:00–17:00 **thuê xe đạp vòng Tây Hồ** hoặc **phố cổ Hà Phường (河坊街)** – cafe, quà lưu niệm, kẹo mạch nha; nghỉ ngơi lấy sức.
+- 18:30 ăn tối **hải sản / lẩu** khu Hubin; tối cafe ven hồ.
+
+### Ngày 6 – Thứ Sáu 30/10 – Tàu cao tốc đi Bắc Kinh
+- Sáng thư thả: **cafe Tây Hồ / mua trà Long Tỉnh, lụa Hàng Châu làm quà**. Trả phòng, gửi hành lý.
+- 11:30 ra ga Hangzhou East (Metro L1/L4 ~30 phút). 12:00–13:30 **tàu G Hangzhou East → Beijing South** hạng 2, ~4,5h. ~17:30–18:30 về khách sạn Vương Phủ Tỉnh / Đông Đan (2 xe Didi ~40 CNY/xe).
 - 19:30 **vịt quay Siji Minfu 四季民福** gần Tử Cấm Thành (150–200 CNY/người; đặt bàn hoặc tới sớm).
 
 ### Ngày 7 – Thứ Bảy 31/10 – Vạn Lý Trường Thành Mộ Điền Dục, 798
@@ -120,6 +122,7 @@ Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hộ
 - 08:00 **Thiên An Môn** slot sáng (miễn phí; WeChat 天安门广场预约参观, mở 1–9 ngày trước, hộ chiếu gốc).
 - 09:00–12:30 **Tử Cấm Thành** slot sáng, đi Thứ Ba để tránh đông cuối tuần (40 CNY mùa thấp điểm + 10 Trân Bảo Quán + 10 Chung Biểu Quán). **Mở bán 20:00 giờ Bắc Kinh ngày 27/10 = 19:00 giờ VN**, 1 vé/hộ chiếu. Trả phòng trước 12:00, gửi hành lý ở khách sạn.
 - 14:00–15:30 **Cảnh Sơn** (2 CNY) – toàn cảnh Tử Cấm Thành. 16:00–18:00 **Nam La Cổ Hạng** (miễn phí). 18:00 ăn tối gần khách sạn.
+- ⚠️ **Nhóm HN (bay Xiamen ban ngày):** ưu tiên **Thiên An Môn + Tử Cấm Thành buổi sáng**, ~12:30 lấy hành lý, ~13:00 ra sân bay cho chuyến 15:10 → bỏ Cảnh Sơn / Nam La Cổ Hạng. **Nhóm SGN + Quảng Châu** ở chơi tới tối, 21:30 ra Đại Hưng, bay đêm VJ3949 01:05.
 - 21:00 lấy hành lý; 21:30 cả 3 nhóm ra Đại Hưng. 01:05 VJ3949 về SGN (nhóm SGN + Quảng Châu), 01:20 VJ7713 về HAN.
 
 ## 4. Chi phí – GIÁ THẬT 22/09 (tỷ giá 3.950 / 26.210)
