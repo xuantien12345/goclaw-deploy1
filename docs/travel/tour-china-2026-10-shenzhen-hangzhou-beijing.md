@@ -33,7 +33,7 @@ Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hộ
 |---|---|---|---|---|---|
 | Hà Nội (2) | Shenzhen Airlines HAN → SZX (bay đêm) | 02:10 | 05:00 | **$150 ≈ 3,93 triệu** | Ban ngày: China Southern 16:10→19:00 **$195** |
 | Sài Gòn (4) | **Vietravel VU** SGN → SZX (bay đêm) | 00:10 | 04:00 | **$73 ≈ 1,91 triệu** | Hãng mới (mở tuyến 8/2026); ban ngày CZ8466 14:30→18:15 **$209** |
-| Quảng Châu (2) | **Spring Airlines 9C7348** SGN → CAN (Quảng Châu) **đêm 23/10** | 18:55 | 23:15 | **5.294.700đ/người** | Đi **Canton Fair** trước (xem 2.4); tối 25/10 tàu G Guangzhou South → Futian, ngủ 1 đêm Thâm Quyến |
+| Quảng Châu (2) | **Spring Airlines 9C7348** SGN → CAN (Quảng Châu) **đêm 23/10** | 18:55 | 23:15 | **5.294.700đ / 2 người** | Đi **Canton Fair** trước (xem 2.4); tối 25/10 tàu G Guangzhou South → Futian, ngủ 1 đêm Thâm Quyến |
 
 - **Vé đi 25/10 (CN) là ngày giá vọt**; ngày thường quanh $115–122. Bay đêm rẻ hơn ~$136/người (SGN) và ~$45 (HN) so ban ngày, đổi lại đáp 04:00–05:00 rạng sáng 26/10.
 - Nhóm bay đêm đáp SZX T3 rạng sáng 26/10 → Metro L11 hoặc Didi về Futian, nhận phòng sớm/gửi đồ, nghỉ. **Sáng 26/10 cả đoàn hội quân**, gửi đồ đi chơi, nhận phòng chính thức sau.
@@ -61,12 +61,12 @@ Giá THẬT Trip.com 22/09. Đã chốt **vé bay ĐÊM (rẻ nhất)** vì hộ
 
 | Ngày | Việc | Chi phí |
 |---|---|---|
-| **23/10 tối** | Bay **Spring Airlines 9C7348** SGN T2 18:55 → Quảng Châu Bạch Vân (CAN) T3 23:15 | **5.294.700đ/người** |
-| 24–25/10 | **Canton Fair** (Hội chợ Canton). Ngủ **JI Hotel (Guangzhou Sanyuanli, gần ĐH Trung Y Dược)** 2 đêm | **3.607.802đ** (phòng, 2 đêm) |
+| **23/10 tối** | Bay **Spring Airlines 9C7348** SGN T2 18:55 → Quảng Châu Bạch Vân (CAN) T3 23:15 | **5.294.700đ / 2 người** (2.647.350đ/người) |
+| 24–25/10 | **Canton Fair** (Hội chợ Canton). Ngủ **JI Hotel (Guangzhou Sanyuanli, gần ĐH Trung Y Dược)** 2 đêm | **3.607.802đ / 2 người** (phòng × 2 đêm) |
 | **25/10 tối** | Tàu cao tốc **Guangzhou South → Futian** (29 phút) sang Thâm Quyến, ngủ **1 đêm** khách sạn Futian | 74,5 CNY ≈ 295k/người |
 | **26/10 sáng** | Nhập hội với đoàn (HN + SGN vừa đáp), từ đây đi chung + về chung team Sài Gòn | — |
 
-> Canton Fair là phần **đi hội chợ (việc kinh doanh)** ghép đầu chuyến — vé bay + 2 đêm Guangzhou đang để riêng, **chưa cộng vào ngân sách tour** ở mục 4 (chờ Sếp chốt có gộp không).
+> Canton Fair là phần **đi hội chợ (việc kinh doanh)** ghép đầu chuyến — vé bay + 2 đêm Guangzhou **ĐỂ RIÊNG, KHÔNG gộp vào ngân sách tour** ở mục 4 (Sếp chốt). Cộng riêng cho nhóm QC: **~8,90 triệu / 2 người** (5.294.700 + 3.607.802).
 
 ## 3. Lịch trình chi tiết
 
@@ -144,13 +144,13 @@ Số liệu = **giá thật Trip.com/Google 22/09** + **vé bay đêm** (HN Shen
 
 | Option | Phân bổ đêm | Về | HN /người | SGN /người | QC /người | **TỔNG đoàn (dự phòng)** | File Excel |
 |---|---|---|---|---|---|---|---|
-| **A** ⭐ | TQ 2 / HC 3 / BK 4 (9 đêm) | 03/11 | 41,51tr | 39,18tr | 34,91tr | **309,56tr** | `tour-china-2026-10-budget.xlsx` |
-| **B** (= v3) | TQ 3 / HC 2 / BK 4 (9 đêm) | 03/11 | 41,45tr | 39,11tr | 34,85tr | **309,04tr** | `…-budget-optB.xlsx` |
-| **C** | TQ 3 / HC 3 / BK 4 (10 đêm) | 04/11 | 43,32tr | 40,98tr | 36,72tr | **323,99tr** | `…-budget-optC.xlsx` |
+| **A** ⭐ | TQ 2 / HC 3 / BK 4 (9 đêm) | 03/11 | 41,51tr | 39,18tr | 37,40tr | **314,53tr** | `tour-china-2026-10-budget.xlsx` |
+| **B** (= v3) | TQ 3 / HC 2 / BK 4 (9 đêm) | 03/11 | 41,45tr | 39,11tr | 37,33tr | **314,01tr** | `…-budget-optB.xlsx` |
+| **C** | TQ 3 / HC 3 / BK 4 (10 đêm) | 04/11 | 43,32tr | 40,98tr | 39,20tr | **328,95tr** | `…-budget-optC.xlsx` |
 
 - **A "ăn đứt" B**: cùng khung 9 đêm, chênh chỉ ~0,5tr nhưng A cho **Hàng Châu 3 đêm** (rút Thâm Quyến còn 2 đêm ~1,5 ngày).
 - **C**: giữ đủ cả 3 thành phố + Hàng Châu 3, nhưng **+~15tr** và dời ngày về **04/11** (+1 đêm khách sạn, vé VJ/Xiamen về lùi 1 ngày).
-- So v3 gốc (302,4tr): giá thật đội **+~7tr**, chủ yếu do 2 chặng VỀ tăng (VJ3949 $103→$148; HN về $103→$152 Xiamen), bù lại vé ĐI rẻ đi (SGN Vietravel $73).
+- So v3 gốc (302,4tr): Option A = **314,53tr (+~12tr)** — gồm giá thật +~7tr (2 chặng VỀ tăng: VJ3949 $103→$148, HN về $103→$152 Xiamen; bù lại vé ĐI rẻ SGN Vietravel $73) + **visa nhóm QC +~5tr** (2 người). Chưa gồm Canton Fair (~8,9tr/2 người, để riêng).
 
 ### 4.2 Option A (khuyến nghị) – tổng mỗi nhóm (verify từ Excel)
 
@@ -158,10 +158,10 @@ Số liệu = **giá thật Trip.com/Google 22/09** + **vé bay đêm** (HN Shen
 |---|---|---|---|
 | Hà Nội (2, cần visa) | 37,74tr | 41,51tr | 83,03tr |
 | Sài Gòn (4, cần visa) | 35,62tr | 39,18tr | 156,71tr |
-| Quảng Châu (2, chưa tính visa) | 31,74tr | 34,91tr | 69,83tr |
-| **Cả đoàn (8)** | 279,60tr | | **309,56tr** |
+| Quảng Châu (2, **có visa**) | 34,00tr | 37,40tr | 74,79tr |
+| **Cả đoàn (8)** | 285,94tr | | **314,53tr** |
 
-Chi tiết từng dòng (visa, khách sạn, tham quan, ăn ở, đi lại…) nằm trong sheet **ChiPhi_HN / SGN / QC**. Đổi ô chữ xanh ở ThamSo → toàn bộ chạy lại. Chưa gồm bảo hiểm (400k–1,2 triệu/người, ô Bảo hiểm ThamSo = 0), mua sắm; **ô "Cần visa" nhóm Quảng Châu đang = 0** (điểm chốt #5).
+Chi tiết từng dòng (visa, khách sạn, tham quan, ăn ở, đi lại…) nằm trong sheet **ChiPhi_HN / SGN / QC**. Đổi ô chữ xanh ở ThamSo → toàn bộ chạy lại. Chưa gồm bảo hiểm (400k–1,2 triệu/người, ô Bảo hiểm ThamSo = 0), mua sắm; **nhóm Quảng Châu đã BẬT visa (D11=1, +~2,26tr/người)** — điểm chốt #5 ✅. **Chi phí Canton Fair (~8,90tr/2 người) để RIÊNG, không nằm trong bảng này.**
 
 ## 5. Thời tiết và trang phục
 
@@ -205,7 +205,7 @@ Vali 20–23 kg/người là đủ. Sạc dự phòng, adapter đa năng (220V, 
 2. **Vietjet chiều về tặng 20 kg?** — chưa xác nhận; ô "Hành lý Vietjet 20 kg" (ThamSo dòng 28) đang tính thêm, về 0 nếu vé đã kèm.
 3. ~~Khách sạn Bắc Kinh~~ → **đã rõ:** ở ngay **Vương Phủ Tỉnh vẫn ≤1,5 triệu** được (Zhong'an ~298 CNY, Xingyi ~230); giữ mức 400 CNY.
 4. **Hương Sơn** (lá đỏ) đi hay bỏ: chốt khi có bản tin lá đỏ ~25/10; bật cột "Tính" ThamSo dòng 44 nếu đi.
-5. **Nhóm Quảng Châu có cần visa TQ không** (ô "Cần visa" ThamSo dòng 11 đang = 0). Nếu cần → +~2,26 triệu/người.
+5. ~~Nhóm Quảng Châu có cần visa TQ không~~ → **đã rõ:** QC đi Canton Fair + tour đầy đủ nên **PHẢI làm visa** — đã BẬT (ThamSo D11=1, +~2,26tr/người), tổng đoàn cập nhật ở mục 4.
 6. **Nhóm HN chặng về:** verify app Vietjet có chuyến đêm PKX→HAN đêm 03/11 không; nếu không, dùng Xiamen ban ngày (đã tính $152) và chấp nhận rời Bắc Kinh sớm ngày cuối.
 
 ## 9. Nguồn tham khảo
